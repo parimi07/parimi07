@@ -1,8 +1,3 @@
-
-Of course. Here is the `.md` file, modified to accurately reflect the data from your CV.
-
------
-
 ## 👋 Hey there\! I'm **Yogeswar** – A Passionate Programmer 💻
 
 ### 👨‍🎓 **About Me:**

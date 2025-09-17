@@ -42,3 +42,9 @@
   - 📧 [yogistark07@gmail.com](mailto:yogistark07@gmail.com) 
   - 💼 [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/LinkedIn%2520Profile) 
   - 💻 [GitHub](https://github.com/parimi07) 
+
+---
+
+![Parimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=parimi07&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parimi07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
